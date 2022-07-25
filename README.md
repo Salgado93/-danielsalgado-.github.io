@@ -1,1 +1,1 @@
-Clase UX
+Clase UX Unitec
